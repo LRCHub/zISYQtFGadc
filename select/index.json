@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏のきっかけ",
+  "base_artist": "20th Century",
+  "createdAt": "2025-12-04T17:54:23.719989Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏のきっかけ",
+      "artist": "20th Century",
+      "has_synced": false,
+      "path": "select/pl_01_夏のきっかけ_20th_Century.txt"
+    }
+  ]
+}
